@@ -1,0 +1,1 @@
+Takes as input an image and outputs another image with all RGB pixels that have either R or G or B > 200 set to 255.
